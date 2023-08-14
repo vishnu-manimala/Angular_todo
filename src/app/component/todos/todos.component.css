@@ -1,0 +1,15 @@
+.todo {
+    list-style: none;
+    align-items: center;
+    vertical-align: middle;
+    
+}
+.addTodo {
+    list-style: none;
+    align-items: center;
+    vertical-align: middle;
+    justify-content: space-between;
+} 
+input, #todo-input {
+    width: 500px;
+}
